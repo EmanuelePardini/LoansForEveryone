@@ -2,9 +2,9 @@
 LoansForEveryone is a smart contract written in Solidity to manage user loans on the ethereum blockchain 
 
 ## Features:
--Ask for a Loan
--Grant a Loan with interests
--Loan management with penalty on late payments
+-Ask for a Loan.
+-Grant a Loan with interests.
+-Loan management with penalty on late payments.
 
 
 ### LoanManager.sol
