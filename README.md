@@ -37,3 +37,12 @@ To represent loan statuses (e.g., active, paid, defaulted, canceled), we use an 
 ### Interest and Penalty Calculation
 
 We employ the `LoanLibrary` for accurate interest and penalty calculations. By using a library, we maintain clean and reusable code, reducing the risk of calculation errors.
+
+### Sepolia
+
+This smart contract has been deployed on the Sepolia Testnetwork at the following address: [Sepolia Testnetwork](https://sepolia.etherscan.io/address/0xf8588DC0c87c5B605C2333eeD1FA385f43424b8D)
+
+## Author:
+
+This web app was created by [Emanuele Pardini](http://emanuelepardini.altervista.org/).
+Enjoy!
